@@ -2,3 +2,5 @@ Hola UTXJ
 Soy Eduardo , estoy tomando curso de Git.
 Estamos en la uni.
 Prueba
+
+Esta es la primer clase del curso de Git/ GitHub, ya instalos lo necesario.
